@@ -6,7 +6,7 @@ services:
     container_name: springboot-users-crud
     
     # Usar imagen de DockerHub
-    image: nolocardeno/springboot-crud-app:latest
+    image: nolorubio23/springboot-crud-app:latest
     
     # Mapeo de puertos (host:contenedor)
     ports:
