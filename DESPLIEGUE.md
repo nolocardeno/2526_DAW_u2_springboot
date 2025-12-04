@@ -73,6 +73,12 @@ El archivo `docker-compose.yml` ha sido actualizado para usar la imagen de Docke
 
 https://github.com/nolocardeno/2526_DAW_u2_springboot/blob/7dd3d2e675e35b1e557e0dd1064d587a8f70638d/docker-compose.yml#L1-L43
 
+## 4. Cambios en la aplicación para mostrar mi nombre
+En la aplicación ahora se mostrara mi nombre.
+
+![Captura en la App](./img/cambiosApp.png)
+
+---
 
 ### 4. Enlace a la imagen en Docker Hub
 
