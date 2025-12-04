@@ -5,13 +5,8 @@ services:
     # Nombre del contenedor
     container_name: springboot-users-crud
     
-    # Construir desde el Dockerfile local
-    build:
-      context: .
-      dockerfile: Dockerfile
-    
-    # Nombre de la imagen
-    image: springboot-crud-app:latest
+    # Usar imagen de DockerHub
+    image: nolocardeno/springboot-crud-app:latest
     
     # Mapeo de puertos (host:contenedor)
     ports:
